@@ -1,0 +1,55 @@
+{
+  "clauses": [
+    { "literals": [
+      { "symbol": "x5", "positive": true },
+      { "symbol": "x4", "positive": false }]},
+    { "literals": [
+      { "symbol": "x1", "positive": true },
+      { "symbol": "x5", "positive": false }]},
+    { "literals": [
+      { "symbol": "x6", "positive": false },
+      { "symbol": "x1", "positive": false }]},
+    { "literals": [
+      { "symbol": "x5", "positive": false },
+      { "symbol": "x2", "positive": false }]},
+    { "literals": [
+      { "symbol": "x5", "positive": true },
+      { "symbol": "x2", "positive": true }]},
+    { "literals": [
+      { "symbol": "x5", "positive": false },
+      { "symbol": "x1", "positive": false },
+      { "symbol": "x6", "positive": true }]},
+    { "literals": [
+      { "symbol": "x6", "positive": false },
+      { "symbol": "x4", "positive": false }]},
+    { "literals": [
+      { "symbol": "x6", "positive": true },
+      { "symbol": "x4", "positive": true }]},
+    { "literals": [
+      { "symbol": "x6", "positive": false },
+      { "symbol": "x3", "positive": false },
+      { "symbol": "x5", "positive": true }]},
+    { "literals": [
+      { "symbol": "x2", "positive": false },
+      { "symbol": "x6", "positive": false },
+      { "symbol": "x1", "positive": true }]},
+    { "literals": [
+      { "symbol": "x1", "positive": false },
+      { "symbol": "x4", "positive": false },
+      { "symbol": "x2", "positive": true }]},
+    { "literals": [
+      { "symbol": "x4", "positive": false },
+      { "symbol": "x5", "positive": false },
+      { "symbol": "x3", "positive": true }]},
+    { "literals": [
+      { "symbol": "x3", "positive": false },
+      { "symbol": "x1", "positive": false }]},
+    { "literals": [
+      { "symbol": "x3", "positive": true },
+      { "symbol": "x1", "positive": true }]},
+    { "literals": [
+      { "symbol": "x3", "positive": false },
+      { "symbol": "x2", "positive": false },
+      { "symbol": "x4", "positive": true }]}
+  ]
+}

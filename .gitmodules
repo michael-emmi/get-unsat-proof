@@ -1,0 +1,8 @@
+[submodule "cadical"]
+	path = cadical
+	url = https://github.com/arminbiere/cadical.git
+	ignore = dirty
+[submodule "drat-trim"]
+	path = drat-trim
+	url = https://github.com/marijnheule/drat-trim.git
+	ignore = dirty
