@@ -8,6 +8,7 @@ A simple tool to retrieve resolution proofs.
 # fetch the dependencies
 git submodule init
 git submodule update
+npm i
 
 # build the dependencies
 make
